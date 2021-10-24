@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1577234830 source:c:\users\comp\desktop\c++ dd\task4\main.cpp
+	<iostream>
+	<cstdlib>
+
